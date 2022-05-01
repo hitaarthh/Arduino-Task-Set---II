@@ -38,6 +38,11 @@ if character ch=='a' which means it will rotate in antiClockwise.
 ```C
 if character ch=='c' which means it will rotate in Clockwise.
 ```
+
+```C
+if character ch=='s' which means the motor will stop rotating.
+```
+
 ### --> Simulation Diagram:
 ![image](https://user-images.githubusercontent.com/91147942/166149110-c672a2f9-2d7b-4533-851f-6e461717316e.png)
 
