@@ -1,6 +1,6 @@
 <div>
-<a href=""><img src="https://img.shields.io/badge/Platform%3A%20-TinkerCad-blue" align="left"></a>
-<a href="https://wiki.bi0s.in/"><img src="https://img.shields.io/badge/Bi0s-Hardware-black" align="right"></a>
+<a href=""><img src="https://img.shields.io/badge/Platform%3A%20-TinkerCad-blue" align="left" height="25"></a>
+<a href="https://wiki.bi0s.in/"><img src="https://img.shields.io/badge/Bi0s-Hardware-black" align="right" height="25"></a>
 </div>
 
 <div align="center">

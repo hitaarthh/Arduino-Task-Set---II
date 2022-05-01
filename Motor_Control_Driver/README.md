@@ -1,7 +1,7 @@
 <div>
-<img src="https://img.shields.io/badge/MicroController%3A-Arduino%20UNO%203-green[700]" align="left">
-<a href="https://www.tinkercad.com/things/1cJAQMVVZKf-motor-driver-controller"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Tinker-blue"></a>
-<img src="https://img.shields.io/badge/Processor%3A-Atmega328P-black" align="right">
+<img src="https://img.shields.io/badge/MicroController%3A-Arduino%20UNO%203-green[700]"height="25" align="left">
+<a href="https://www.tinkercad.com/things/1cJAQMVVZKf-motor-driver-controller"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Tinker-blue" height="25"></a>
+<img src="https://img.shields.io/badge/Processor%3A-Atmega328P-black" height="25"align="right">
 </div>
 
 <div align="center">
