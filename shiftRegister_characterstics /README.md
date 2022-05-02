@@ -14,4 +14,17 @@
 - Shift registers are primarily made with D flipflops in a daisy chain structure. These <a href="https://en.wikipedia.org/wiki/Flip-flop_(electronics)">flipflops</a> can each store one bit of binary information, all of which are controlled by a shared input clock. DFF's can read and store the value of the input signal at every rising edge of the clock. This property of the DFF can be used to build various registers. 
 - Different forms of registers like SISO, SIPO, PISO, PIPO are differentiated by the way data is loaded and retrieved.
 
+### --> SISO Shift Register:
+- SISO is one of the most basic forms of the shift registers. The data is loaded serially and retrieved serially. The output of the first DFF is fed into the input of the next DFF at each clock cycle, eventually reaching the last DFF / Output. This Shift register output is delayed from the input. The shift register shifts, or streams, one-bit data per clock cycle.
 
+![image](https://support.dialog-semiconductor.com/documents/AN-CM-303/AN-CM-303_1.jpeg)
+
+- As shown in the design above, DFF3 is fed with the input data bits serially and the output is taken from DFF10 serially. All the DFFs share the same clock. nReset is set high to ensure that all DFF's are enabled for normal operation.
+
+- The timing diagram shown below has clock and input data stream as first and second waveforms. The rest of the waveforms show how the output of each DFF shifts serially. If we consider the first 8 input bits which are 10011010, we can clearly observe that these 8 bits appear one after another by the 8th rising edge clock at the output of DFF10
+
+- One of the main applications of the SISO register is to act as a delay element. The delay can be controlled by the number of stages in the register and the frequency of the clock. In the design below the clock is at 1kHz, so the delay that is observed is 7 ms.
+
+![image](https://support.dialog-semiconductor.com/documents/AN-CM-303/AN-CM-303_2.jpeg)
+
+    
