@@ -11,5 +11,5 @@
 ## List of Projects:
 
 - [Motor Control Driver](https://github.com/hitaarthh/Hardware-Task-Set---II/tree/main/Motor_Control_Driver)
-- SISO,SIPO,PIPO Shift Registers characteristics 
+- [SISO,SIPO,PIPO Shift Registers characteristics](https://github.com/hitaarthh/Arduino-Task-Set---II/tree/main/SISO,SIPO,PIPO%20Shift%20Registers%20characteristics)
 
