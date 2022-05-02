@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h1> SISO,SIPO,PIPO Shift Registers </h1>
+<h1> SISO, SIPO, PIPO Shift Registers </h1>
 
 </div>
 
