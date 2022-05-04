@@ -156,7 +156,6 @@ void direction()
 control the RPM and Torque for this particular motor*/
 void speed(int x, int y) 
 {
-	  
      digitalWrite(x, LOW);
 	 digitalWrite(y, HIGH);
     for (int i = 0; i < 256; i++) 
