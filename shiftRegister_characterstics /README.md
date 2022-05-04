@@ -26,7 +26,7 @@
 
  <a href="https://www.tinkercad.com/things/ac5QUiI0cXO?sharecode=4eqq5bDAycv2kkFbsGoY9DTJIchsb8LClVbj3-nD-7E"><img src="https://img.shields.io/badge/SISO_CHARACTERTSTICS%3A-Click%20to%20Tinker-blue"></a>
 
-<img width="1351" alt="Screenshot 2022-05-04 at 5 42 20 PM" src="https://user-images.githubusercontent.com/91147942/166678718-196b2d19-c761-4f14-9d2b-4d0c4a7709b7.png">
+<img width="1351" alt="Screenshot 2022-05-04 at 5 42 20 PM" src="https://user-images.githubusercontent.com/91147942/166678718-196b2d19-c761-4f14-9d2b-4d0c4a7709b7.png" height="25">
 
 ### --> SIPO Shift Register:
     
