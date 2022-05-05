@@ -3,8 +3,13 @@
 <a href="https://www.microchip.com/en-us/product/ATmega328P"><img src="https://img.shields.io/badge/Processor%3A-Atmega328P-black" height="25"align="right"></a>
 </div>
 
+
 <div align="center">
-<h1> SISO, SIPO, PIPO Shift Registers </h1>
+<h1> 
+  <br>
+ SISO, SIPO, PIPO Shift Registers 
+ </br>
+ </h1>
 
 </div>
 
